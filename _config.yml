@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Stat Course Overview Site
-tagline: A Jekyll template for course landing sites
-description: A modern, highly customizable, responsive Jekyll template for course websites, based on Just the Class
+title: Stat 151a
+tagline: Linear Modelling: Theory and Applications
+description: Linear Modelling: Theory and Applications
 author: SCF
 baseurl: '/course-overview' # the subpath of your site, e.g. /blog
 url: 'https://berkeley-scf.github.io' # the base hostname & protocol for your site, e.g. http://example.com

@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Stat 999
+title: Stat 151a
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Stat 999
+  name: Stat 151a
 ---
 
 # Short Title of Class
@@ -20,12 +20,11 @@ UC Berkeley
 
 [//]: # (Notably the paths should not have leading slashes in real sites.)
 
-1. [Spring 2023 (Quarto)](/stat999-quarto)
-1. [Fall 2024 (MyST)](/stat999-myst)
+1. [Spring 2024](/spring-2024)
 
 ## Overview
 
-This is a GitHub Pages template based on Just the Class, developed for the purpose of quickly deploying course overview websites. Such websites link to previous course offerings, provide a summary of what the course is about, and may list learning goals and prerequisites. This paragraph would normally be replaced by an overview of a specific course, and could include information from the [Berkeley Academic Guide](https://guide.berkeley.edu/courses/stat/).
+A coordinated treatment of linear and generalized linear models and their application. Linear regression, analysis of variance and covariance, random effects, design and analysis of experiments, quality improvement, log-linear models for discrete multivariate data, model selection, robustness, graphical techniques, productive use of computers, in-depth case studies.
 
 ## Goals
 
@@ -38,6 +37,6 @@ This is a GitHub Pages template based on Just the Class, developed for the purpo
 ## Prerequisites
 While we are working to make this class widely accessible, we currently require the following (or equivalent) prerequisites:
 
-1. **Name of First Class:** Stat 555 covers important things.
+1. **Stat 102 or Stat 135**
 
-1. **Some Other Class:** Stat 777 covers other topics.
+1. **Stat 133:** recommended
