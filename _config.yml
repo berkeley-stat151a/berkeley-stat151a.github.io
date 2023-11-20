@@ -18,7 +18,7 @@ tagline: "Linear Modelling: Theory and Applications"
 description: "Linear Modelling: Theory and Applications"
 author: SCF
 baseurl: '/course-overview' # the subpath of your site, e.g. /blog
-url: 'https://berkeley-scf.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://berkeley-stat151a.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 logo: 'resources/stat_bear.png'
 
