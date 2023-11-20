@@ -8,7 +8,7 @@ seo:
   name: Stat 151a
 ---
 
-# Short Title of Class
+# Linear Modelling: Theory and Applications
 {: .mb-2 }
 UC Berkeley
 {: .mb-0 .fs-6 .text-grey-dk-000 }
