@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Stat 151a
-tagline: Linear Modelling: Theory and Applications
-description: Linear Modelling: Theory and Applications
+tagline: "Linear Modelling: Theory and Applications"
+description: "Linear Modelling: Theory and Applications"
 author: SCF
 baseurl: '/course-overview' # the subpath of your site, e.g. /blog
 url: 'https://berkeley-scf.github.io' # the base hostname & protocol for your site, e.g. http://example.com
