@@ -17,8 +17,8 @@ title: Stat 151a
 tagline: "Linear Modelling: Theory and Applications"
 description: "Linear Modelling: Theory and Applications"
 author: SCF
-baseurl: '/course-overview' # the subpath of your site, e.g. /blog
-url: 'https://berkeley-stat151a.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://stat151a.stat.berkeley.edu' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 logo: 'resources/stat_bear.png'
 
