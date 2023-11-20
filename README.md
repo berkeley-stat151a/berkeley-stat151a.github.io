@@ -18,8 +18,6 @@ UC Berkeley
 
 [//]: # (Items below should be of the form [Semester YYYY](semester-year)
 
-[//]: # (Notably the paths should not have leading slashes in real sites.)
-
 1. [Spring 2024](spring-2024)
 
 ## Overview
