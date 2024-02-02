@@ -24,14 +24,6 @@ UC Berkeley
 
 A coordinated treatment of linear and generalized linear models and their application. Linear regression, analysis of variance and covariance, random effects, design and analysis of experiments, quality improvement, log-linear models for discrete multivariate data, model selection, robustness, graphical techniques, productive use of computers, in-depth case studies.
 
-## Goals
-
-- **Do** list some goals for the course here.
-
-- **Or do not** list some goals.
-
-- **Decide** if this section is relevant.
-
 ## Prerequisites
 While we are working to make this class widely accessible, we currently require the following (or equivalent) prerequisites:
 
