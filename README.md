@@ -25,7 +25,7 @@ UC Berkeley
 
 ## Overview
 
-A coordinated treatment of linear and generalized linear models and their application. Linear regression, analysis of variance and covariance, random effects, design and analysis of experiments, quality improvement, log-linear models for discrete multivariate data, model selection, robustness, graphical techniques, productive use of computers, in-depth case studies. This course uses either R or Python as its primary computing language, as determined by the instructor.
+A coordinated treatment of linear and generalized linear models and their application. Linear regression, analysis of variance and covariance, random effects, design and analysis of experiments, quality improvement, log-linear models for discrete multivariate data, model selection, robustness, graphical techniques, productive use of computers, in-depth case studies. 
 
 ## Logistics
 
@@ -33,4 +33,4 @@ Three hours of Lecture and  Two hours of Laboratory per week for 15 weeks.
 
 ## Prerequisites
 
-STAT 135. STAT 133 recommended.
+102 or 135. 
