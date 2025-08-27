@@ -17,6 +17,7 @@ UC Berkeley
 
 ## Offerings
 
+1. [Fall 2025](fall-2025)
 1. [Spring 2025](https://sites.google.com/view/nikitazhivotovskiy/stat151a)
 1. [Fall 2024](fall-2024)
 1. [Spring 2024](spring-2024)
@@ -26,7 +27,7 @@ UC Berkeley
 
 ## Overview
 
-A coordinated treatment of linear and generalized linear models and their application. Linear regression, analysis of variance and covariance, random effects, design and analysis of experiments, quality improvement, log-linear models for discrete multivariate data, model selection, robustness, graphical techniques, productive use of computers, in-depth case studies. 
+A coordinated treatment of linear and generalized linear models and their application. Linear regression, analysis of variance and covariance, random effects, design and analysis of experiments, quality improvement, log-linear models for discrete multivariate data, model selection, robustness, graphical techniques, productive use of computers, in-depth case studies. This course uses either R or Python as its primary computing language, as determined by the instructor.
 
 ## Logistics
 
@@ -34,4 +35,4 @@ Three hours of Lecture and  Two hours of Laboratory per week for 15 weeks.
 
 ## Prerequisites
 
-102 or 135. 
+STAT 135. STAT 133 recommended.
