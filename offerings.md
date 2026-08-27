@@ -1,3 +1,4 @@
+1. [Fall 2026](fall-2026)
 1. [Spring 2026](spring-2026)
 1. [Fall 2025](fall-2025)
 1. [Spring 2025](https://sites.google.com/view/nikitazhivotovskiy/stat151a)
